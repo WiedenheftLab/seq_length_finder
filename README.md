@@ -16,6 +16,7 @@ Syntax:
         python seq_length_finder.py -i demo.fasta -l demo_sub_list.txt -o demo_sub_list.fasta
 
 seq_fetch dependencies:
+
 	Bio module and SeqIO available in this package      refer to https://biopython.org/wiki/Download
 	tqdm                                                refer to https://pypi.org/project/tqdm/
 	
